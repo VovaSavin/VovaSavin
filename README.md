@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VovaSavin
 - 👀 I’m interested in web-development 
 - 💞️ I’m looking to collaborate on with python or django developers and learn more about backend.
-- 📫 How to reach me: linkedin.com/in/володимир-савін-5a02b3168 or telegram: Stream Stream
+- 📫 How to reach me: linkedin.com/in/володимир-савін-5a02b3168 or telegram: @Vovick56
 
 <!---
 VovaSavin/VovaSavin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
