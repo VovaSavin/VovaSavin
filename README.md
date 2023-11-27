@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VovaSavin
-- 👀 I’m interested in web-development 
-- 💞️ I’m looking to collaborate on with python or django developers and learn more about backend.
+- 👋 Hi, I’m Volodimir Savin;
+- 👀 I’m interested in web-development;
+- 💞️ I’m looking interesting projects on Python/Django, JavaScript/Vue.js;
 - 📫 How to reach me: linkedin.com/in/володимир-савін-5a02b3168 or telegram: @Vovick56
 
 <!---
